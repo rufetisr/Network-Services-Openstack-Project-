@@ -1,0 +1,1 @@
+This project shows how to use Kolla-Ansible to deploy OpenStack on one single node VM, how to configure networks, launch instances, and manage cloud resources through both command-line tools and the Horizon dashboard.
